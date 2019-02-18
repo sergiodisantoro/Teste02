@@ -1,4 +1,5 @@
 # Lista de Jogos
 
-* [Jogo Preferido 1]
-* [Jogo Preferido 2]
+* Mario Kart
+* Call of Dutty
+* Top Gear
